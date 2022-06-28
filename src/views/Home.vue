@@ -1,9 +1,11 @@
 <template>
-  <Biblioteca />
+  <div>
+    home
+    <Biblioteca />
+  </div>
 </template>
 
 <script>
-// @ is an alias to /src
 import Biblioteca from "@/components/biblioteca.jsx";
 
 export default {

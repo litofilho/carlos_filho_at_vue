@@ -1,29 +1,32 @@
 {
   "items": [
     {
+      "id": 1,
       "title": "Sapiens",
       "author": "Yuval Noah Harari",
-      "edição": 7,
-      "ano": 2000,
+      "edition": 7,
+      "year": 2000,
       "tags": ["historia", "antropologia", "não-ficção"],
-      "tipo": "Livro"
+      "type": "Livro"
     },
     {
+      "id": 2,
       "title": "Homo Deus",
       "author": "Yuval Noah Harari",
-      "edição": 4,
-      "ano": 2005,
+      "edition": 4,
+      "year": 2005,
       "tags": ["historia", "antropologia", "não-ficção"],
-      "tipo": "Livro"
+      "type": "Livro"
     },
     {
+      "id": 3,
       "title": "21 Lições para o século 21",
       "author": "Yuval Noah Harari",
       "edição": 1,
-      "ano": 2010,
+      "edition": 2010,
       "tags": ["historia", "antropologia", "não-ficção"],
-      "tipo": "Livro"
+      "type": "Livro"
     }
   ],
-  "tipos": ["Livro", "Artigo", "Revista", "Jornal"]
+  "types": ["Livro", "Artigo", "Revista", "Jornal"]
 }
